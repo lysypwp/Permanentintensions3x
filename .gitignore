@@ -15,7 +15,7 @@
 #Rapid Application Development File
 rad.json
 #Translation Base-file
-*.g.xlf
+*.md
 #License-file
 *.*
 #Test results file
